@@ -1,1 +1,1 @@
-this folder will contain only array DSA
+this folder will contain only queue
